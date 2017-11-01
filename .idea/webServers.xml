@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="405c20da-c522-4903-a55a-c754b997bd55" name="kutuphane" url="http://www.abdullahsaricam.com/kutuphane">
+        <fileTransfer host="88.255.203.166" port="21" rootFolder="/public_html/kutuphane">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
